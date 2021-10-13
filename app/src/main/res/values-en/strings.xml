@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GuessNumber</string>
+    <string name="tvNombre">Name:</string>
+    <string name="tvIntentos">Chances:</string>
+    <string name="btnJugar">PLAY!</string>
+    <string name="tvIntento">try:</string>
+    <string name="tvMenor">LOWER</string>
+    <string name="tvMayor">HIGHER</string>
+    <string name="btnBorrar">Delete</string>
+    <string name="btnIntento">Try</string>
+    <string name="intNumero">Try with a number</string>
+    <string name="GameOver">Game Over</string>
+    <string name="Ganaste">You won!</string>
+    <string name="comprTipo">The chances field must be a positive number > 0</string>
+    <string name="campoVacio">The fields cant be empty</string>
+    <string name="tvHasGanado">YOU WIN</string>
+    <string name="tvHasPerdido">YOU LOSE</string>
+    <string name="PerdidoFinal">You lose. The correct number was</string>
+    <string name="hasGanadoEn">You have won in</string>
+    <string name="intentos">tries</string>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GuessNumber</string>
+    <string name="tvNombre">"Nombre: "</string>
+    <string name="tvIntentos">"Intentos: "</string>
+    <string name="btnJugar">"A JUGAR! "</string>
+    <string name="tvIntento">"Intento: "</string>
+    <string name="tvMenor">MENOR</string>
+    <string name="tvMayor">MAYOR</string>
+    <string name="btnBorrar">Borrar</string>
+    <string name="btnIntento">Intentar</string>
+    <string name="intNumero">Prueba con un numero</string>
+    <string name="GameOver">Perdiste</string>
+    <string name="Ganaste">Has acertado!</string>
+    <string name="comprTipo">El campo intentos debe ser un numero positivo > 0</string>
+    <string name="campoVacio">Los campos no pueden estar vacios</string>
+    <string name="tvHasGanado">GANASTE</string>
+    <string name="tvHasPerdido">PERDISTE</string>
+    <string name="PerdidoFinal">"Has perdido. El numero correcto era "</string>
+    <string name="hasGanadoEn">"Has ganado en "</string>
+    <string name="intentos">intentos</string>
+</resources>
